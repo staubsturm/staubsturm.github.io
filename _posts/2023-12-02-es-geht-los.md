@@ -1,4 +1,4 @@
-## 1. Abend - Aufbruch ins Ungewisse
+## Abend 1 - Aufbruch ins Ungewisse
 
 Endlich ist der große Tag der Monsterjägerprüfung gekommen. Doch anstatt das Kit, Rupert, Ving, Yara und Eliane sich wie geplant zur Prüfung anmelden können, werden sie von Inteli, Göttin des Wissens, der Wissenschaft und natürlich permanente Vertretungslehrerin, zum Nachsitzen verdonnert. Ohne irgendeinen erkenntlichen Grund.
 
