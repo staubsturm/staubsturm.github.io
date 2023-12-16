@@ -10,7 +10,7 @@ Inteli schickt die zusammengewürfelte Gruppe aus Schülern in die Bibliothek, w
 
 Yara und Eliane reden währendessen scheinbar erfolglos auf den Wicht ein, bis Ving versucht sich den Wicht zu schnappen und feststellen muss das dieser nur eine Illusion war. An hinteresten Ende der Bibliothek finden die drei eine kleine niedliche Kreatur aus Tinte. 
 
-![Tintling](../images/01-Tintling-niedlich.jpeg)
+![Tintling](/docs/assets/images/01-Tintling-niedlich.jpeg)
 
 Sie scheinen die Kreatur überreden zu können und das gesuchte Buch setzt sich wieder zusammen und vervielfaltigt sich sogar gleich. Ein Tintling, den Ving für Yara in einem Tintenglas einfängt. Ving stellt auserdem fest das die Kreatur aus einem magischen Buch entsprungen scheint. Die offenen Seiten beschreiben ein Ritual um Tote wieder zum Leben zu erwecken.
 
@@ -28,4 +28,4 @@ Die Gruppe entscheided sich dafür am nächsten Tag erstmal noch mit verschieden
 
 Und es geht endlich auf die Reise. Das erste Ziel ist die Grabstelle von denen Magister Sturmklinge ihnen erzählt hat. 
 
-![Schaufelbros](../images/01-grabraub.jpeg)
+![Schaufelbros](/docs/assets/images//01-grabraub.jpeg)
