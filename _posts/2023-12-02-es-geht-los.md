@@ -6,7 +6,7 @@ Endlich ist der große Tag der Monsterjägerprüfung gekommen. Doch anstatt das 
 
 Inteli schickt die zusammengewürfelte Gruppe aus Schülern in die Bibliothek, wo sie das offizielle Buch der Regeln der Monsterjägerprüfung ausleihen sollen. Doch dort angekommen warnt sie Ko'nan der Bibliothekar, das die Bücher "nicht gut drauf" sind. Ving und Eliane gehen zum gesuchten Buch und dieses fliegt ihnen plötzlich aus der Hand. Die einzelnen Seiten fliegen durch den Raum. Rupert rennt hinter den fliegenden Seiten her und schafft es sogar eine zu erwischen. Kit findet das ganze nervig und hinterfragt die Sinnhaftigkeit einer Bibliothek in der die Bücher vor einem wegrennen. Der Bibliothekar ist aber wenig beindruck. Also macht Kit ein paar backflips und schnappt sich ein Blatt, dass ihm prompt einen bösen Papierschnitt versetzt. Währendessen hört die Gruppe Lachen irgendwo aus dem Raum und ein kleiner Wicht aus Papier taucht auf und beginnt zu tanzen. Ving begleitet das ganze mit seiner Querflöte um den Wicht zu beschwichtigen.
 
-![Paperwicht](/least-github-pages/assets/images/01-papierwicht-tanz.jpeg)
+![Paperwicht](/docs/assets/images/01-papierwicht-tanz.jpeg)
 
 Yara und Eliane reden währendessen scheinbar erfolglos auf den Wicht ein, bis Ving versucht sich den Wicht zu schnappen und feststellen muss das dieser nur eine Illusion war. An hinteresten Ende der Bibliothek finden die drei eine kleine niedliche Kreatur aus Tinte. 
 
