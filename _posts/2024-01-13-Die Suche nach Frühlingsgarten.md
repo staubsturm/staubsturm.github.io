@@ -6,6 +6,7 @@
 
 ### Im Vergoldeten Geist
 
+![Loretta](/docs/assets/images/03-Party.jpeg)
 ![Loretta](/docs/assets/images/03-Loretta.jpeg)
 
 ### Zaubertränke mischen mit Camilla
