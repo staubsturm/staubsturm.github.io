@@ -1,4 +1,4 @@
-## Abend 34 - Kampf gegen den Sonnenesser-Eulenbär
+## Abend 4 - Kampf gegen den Sonnenesser-Eulenbär
 
 ### Plan schmieden... oder Streit?
 
