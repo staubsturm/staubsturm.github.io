@@ -12,7 +12,7 @@ In einer gemeinsamen Aktion nimmt die Gruppe den Sonnenesser Eulenbär aus, um s
 
 Nachdem die Gruppe festgestellt hat, dass sie noch etwas Zeit bis zum Ende der Prüfung hat, machen sie sich auf den Weg, um die Plage zu erforschen, in der Hoffnung, noch mehr Monster zum Jagen zu finden. Dank der Hilfe einer freundlichen Dryade werden sie auch fündig. Am Rande des Frühlings wird die Gruppe von Wesen angegriffen, die nur aus Pflanzen bestehen. Kleine Kobolde aus Zweigen, ein großes Ungeheuer aus Ranken und Ungeheuer aus Nadeln greifen aus dem Wald die Gruppe an. Doch mit Äxten und Feuer ist die Plage schnell vernichtet. Der Ursprung des Problems scheint aber tiefer im Wald zu liegen.
 
-### Die Ex auf dem Einhorn. 
+### Die Ex auf dem Einhorn
 
 Nachdem die Monster besiegt sind, folgt die Gruppe den Spuren der Krankheit und gelangt zu einer Burgruine. Aus ihr ragt ein riesiger kranker Baum, und um ihn herum lauern weitere dieser Pflanzenwesen. Statt sich auszuruhen, greift eine frustrierte Eliane gleich die nächsten Monsterbäume an, und als wäre das nicht genug, taucht auch noch Edeltraut von Stein auf, Ruperts (Ex-)Freundin, die auf einem Einhorn reitet und prompt Ving niedertrampelt. 
 
