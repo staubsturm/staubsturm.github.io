@@ -8,6 +8,6 @@ Die Spannung steigt, als Yara mutig in den nächsten Raum vordringt, auf der Suc
 
 ## Zurück in das neue Schattentor
 
-![Karte von Schattentor](docs/assets/images/schattentor.png)
+![Eulenbär](/docs/assets/images/schattentor.png)
 
 Nach einer gefährlichen Reise durch die Feenwelt kehrt die Gruppe nach Schattentor zurück, nur um festzustellen, dass sich die Stadt grundlegend verändert hat. Magische Wesen gehen ein und aus, und ein Feenjahrmarkt hat in der Mitte der Stadt seine Zelte aufgeschlagen. Ein smaragdgrüner Drache liegt gar schlafend auf dem Dorfplatz. Eine ganze Woche ist vergangen, seit die Gruppe sich auf den Weg nach Frühlingsgarten gemacht hat. Dreiblume führt sie zu Madame Thierrot, einer eigenartigen Goblin-Kartenleserin, die in einem Zelt mit ungewöhnlichen Ausmaßen residiert. Die Wände des Zeltes sind mit den Illustrationen der Bücher aus dem Keller geschmückt, und Madame Thierrot wirft die Schatten verschiedenster Kreaturen an die Wände. Die Gruppe lässt ihre Schicksale deuten: Elaine zieht die Thronkarte und erhält eine Vision von großer Verantwortung, während Rupert den Schlüssel zieht. Als letztes wäre Kit dran, doch dieser will nicht seinen Schatten aufgeben. Er fragt, ob er selbst eine Karte ziehen kann, was Madame Thierrot erfreut. Sie lässt ihn sogar zwei Karten ziehen ohne einen direkten Preis. Kit zieht die Karte des Ruins und die Karte des Feindes. Es fühlt sich an, als würde die Realität direkt darauf reagieren. Es haben sich Dinge verändert. Was wird wohl passieren?
